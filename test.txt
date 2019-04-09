@@ -1,1 +1,3 @@
+the first change
+the hotfix change
 this is the test for conflict editing
