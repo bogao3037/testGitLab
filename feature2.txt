@@ -1,3 +1,4 @@
 this is feature2
 a new line
 2en new line
+test for the interactive addition
